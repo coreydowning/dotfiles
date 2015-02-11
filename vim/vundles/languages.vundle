@@ -1,0 +1,2 @@
+Bundle 'sheerun/vim-polyglot'
+Bundle 'scrooloose/syntastic.git'

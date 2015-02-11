@@ -1,0 +1,2 @@
+Bundle "vim-scripts/IndexedSearch"
+Bundle "nelstrom/vim-visual-star-search"

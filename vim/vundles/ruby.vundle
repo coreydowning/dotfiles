@@ -1,0 +1,3 @@
+Bundle "ecomba/vim-ruby-refactoring"
+Bundle "vim-ruby/vim-ruby.git"
+Bundle "Keithbsmiley/rspec.vim"
