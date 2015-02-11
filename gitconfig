@@ -1,5 +1,5 @@
 [core]
-  excludesfile = ~/.gitignore
+    excludesfile = ~/.gitignore
     pager = less -FXRS -x2
 [alias]
     st = status
@@ -34,3 +34,5 @@
 [user]
     email = downing.c@gmail.com
     name = Corey Downing
+[push]
+    default = simple
