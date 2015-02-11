@@ -18,6 +18,7 @@ vim +PluginInstall +qall
 mv ${dir}/vim/settings/appearance.ignore ${dir}/vim/settings/appearance.vim
 
 echo "Setting up zsh"
+curl -L http://install.ohmyz.sh | sh
 ln -sf ${dir}/zshrc ${HOME}/.zshrc
 
 echo "Setting up git"
