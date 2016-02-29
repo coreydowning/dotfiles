@@ -6,7 +6,7 @@ echo "Installing coreydowning's dotfiles to ${HOME} from ${dir}"
 if [ ! -d ${dir}/vim/bundle/vundle ]
 then
   echo "Getting Vundle..."
-  git clone -q https://github.com/gmarik/Vundle.vim.git ${dir}/vim/bundle/vundle
+  git clone -q https://github.com/VundleVim/Vundle.vim.git ${dir}/vim/bundle/vundle
 fi
 
 echo "Setting up vim"
